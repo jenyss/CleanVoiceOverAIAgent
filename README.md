@@ -4,7 +4,7 @@ This ReAct LangGraph Agent 𝗽𝗿𝗼𝗱𝘂𝗰𝗲𝘀 𝗮 𝘃𝗶𝗱�
 
 If you have any questions or would like to collaborate, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jenya-stoeva-60477249/). You're more than welcome!
 
-## 𝗔𝗴𝗲𝗻𝘁 𝗧𝗼𝗼𝗹𝘀
+## Agent Tools
 * ExtractAudio - FFmpeg
 * TranscribeAudio (with timestamps) - OpenAI Whisper API
 * CleanTranscript (with preserved timestamps) - OpenAI GPT-4o
@@ -12,7 +12,7 @@ If you have any questions or would like to collaborate, feel free to reach out t
 * RemoveOldVoice - FFmpeg
 * MergeAudio - FFmpeg
 
-## Intallation
+## Intallation Agent Tools
 
 <b>Prerequisites</b>
 
